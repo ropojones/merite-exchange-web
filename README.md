@@ -1,1 +1,1 @@
-# meriteexchange
+# merite-exchange-web
